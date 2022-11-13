@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is ECE6-7825
+
+ Directory of C:\Users\naika\Desktop\MyGit
+
+13-11-2022  13:39    <DIR>          .
+13-11-2022  13:39    <DIR>          ..
+13-11-2022  13:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  392,178,733,056 bytes free
